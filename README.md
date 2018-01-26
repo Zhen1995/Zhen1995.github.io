@@ -13,5 +13,5 @@ hexo deploy
 参考 http://blog.csdn.net/yanzhenjie1003/article/details/51703370  
 2. 使用hexo驱动出一个简单的博客
 参考 https://www.jianshu.com/p/190f85f304c6
-3. 选择主题，这里你可以使用[NextT](http://theme-next.iissnan.com/)，理由是文档丰富。你也可以在hexo 官网上找合适的主题（我用的是Nayo） https://hexo.io/themes/
+3. 选择主题，这里你可以使用[NextT](http://theme-next.iissnan.com/)，理由是文档丰富。你也可以在hexo 官网上找合适的主题（我用的是[Nayo](https://github.com/Lemonreds/hexo-theme-Nayo)） https://hexo.io/themes/
 4. 再来就是对选择的主题进行优化了和练习使用markdown语法写文章了，这里不贴资源了，要能够自己发现问题解决问题呦 >_<。

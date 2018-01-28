@@ -5,7 +5,10 @@
     <entry>
       <title><![CDATA[常用linux命令]]></title>
       <url>/%E5%B8%B8%E7%94%A8linux%E5%91%BD%E4%BB%A4.html</url>
-      <content type="html"><![CDATA[<p>转载自<a href="http://blog.csdn.net/ljianhui/article/details/11100625" target="_blank" rel="noopener">初窥Linux 之 我最常用的20条命令</a><br><a id="more"></a></p>
+      <content type="html"><![CDATA[<blockquote>
+<p>转载自<a href="http://blog.csdn.net/ljianhui/article/details/11100625" target="_blank" rel="noopener">初窥Linux 之 我最常用的20条命令</a></p>
+</blockquote>
+<a id="more"></a>
 <ol>
 <li>cd命令<br>这是一个非常基本，也是大家经常需要使用的命令，它用于切换当前目录，它的参数是要切换到的目录的路径，可以是绝对路径，也可以是相对路径。如：</li>
 </ol>
@@ -116,7 +119,7 @@
       <title><![CDATA[2017感谢自己]]></title>
       <url>/2017%E6%84%9F%E8%B0%A2%E8%87%AA%E5%B7%B1.html</url>
       <content type="html"><![CDATA[<blockquote>
-<p>感谢自己走出来  </p>
+<p>再见2017  </p>
 </blockquote>
 <a id="more"></a>
 <h2 id="体会"><a href="#体会" class="headerlink" title="体会"></a>体会</h2><p>2017年我认清了自己，也从找工作的动荡中熬出来了。大学里的你我都会有过这个体会，都因为看不清未来而感到彷徨迷失，仿佛<strong>生活停滞无法前进，甚至逃避了很久</strong>。<a href="https://www.bilibili.com/video/av2885725/?from=search&amp;seid=4842164823548770278" target="_blank" rel="noopener">后来偶然在B站上搜到了一段视频</a>,明白了虽然但是时间仍在流逝，它如同小舟正在承载着我前进，<strong>生活依然在继续,我只是暂时被黑暗蒙蔽了双眼</strong>。尽管生活中总会有混沌的时候，感谢这段日子里自己一次次又挣扎出来。<br>昨天的我活在梦里，今天的我会去努力动手实践。<strong>Stay hungry,Stay foolish.</strong></p>

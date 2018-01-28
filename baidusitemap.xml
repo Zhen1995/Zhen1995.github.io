@@ -4,28 +4,8 @@
 
     
   <url>
-    <loc>http://www.lianghangfatong.com/%E5%B8%B8%E7%94%A8linux%E5%91%BD%E4%BB%A4.html</loc>
-    <lastmod>2018-01-28T02:22:44.806Z</lastmod>
-    <data>
-        <display>
-        <title>常用linux命令</title>
-        <pubTime>2018-01-27T07:16:15.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程" url="http://www.lianghangfatong.com/categories/programming/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.lianghangfatong.com/2017%E6%84%9F%E8%B0%A2%E8%87%AA%E5%B7%B1.html</loc>
-    <lastmod>2018-01-27T06:47:26.974Z</lastmod>
+    <lastmod>2018-01-28T02:27:41.626Z</lastmod>
     <data>
         <display>
         <title>2017感谢自己</title>
@@ -37,6 +17,26 @@
            
              
               <breadCrumb title="生活" url="http://www.lianghangfatong.com/categories/life/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.lianghangfatong.com/%E5%B8%B8%E7%94%A8linux%E5%91%BD%E4%BB%A4.html</loc>
+    <lastmod>2018-01-28T02:26:47.310Z</lastmod>
+    <data>
+        <display>
+        <title>常用linux命令</title>
+        <pubTime>2018-01-27T07:16:15.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程" url="http://www.lianghangfatong.com/categories/programming/"/>
           
         </display>
     </data>
